@@ -1,1 +1,1 @@
-# sp6-2_smart-table_starter
+git@github.com:sldw12/smart-table.git
