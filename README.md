@@ -1,1 +1,1 @@
-git@github.com:sldw12/smart-table.git
+git@github.com/sldw12/smart-table.git
